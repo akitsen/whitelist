@@ -95,7 +95,7 @@ For Chrome ctrl+shift+I will land you in Developer tools menu.
              
 ***
         
-### Licence
+### License
 ```
 MIT License
 
